@@ -15,17 +15,17 @@ This repository contains a collection of mini projects created with **React**, *
 
 ## Project Showcase
 
-| #   | Project Name       | Demo Link      |
-| --- | ------------------ | -------------- |
-| 001 | Background Changer | [Live Demo](#) |
-| 002 | Budget Tracker     | [Live Demo](#) |
-| 003 | Calculator         | [Live Demo](#) |
-| 004 | Counter            | [Live Demo](#) |
-| 005 | Digital Clock      | [Live Demo](#) |
-| 006 | Dynamic Gallery    | [Live Demo](#) |
-| 007 | Password Generator | [Live Demo](#) |
-| 008 | Recipe App         | [Live Demo](#) |
-| 009 | Shadow Generator   | [Live Demo](#) |
+| #   | Project Name       | Demo Link                                                                  |
+| --- | ------------------ | -------------------------------------------------------------------------- |
+| 001 | Background Changer | [Live Demo](https://react-mini-projects-sb.netlify.app/background-changer) |
+| 002 | Budget Tracker     | [Live Demo](#)                                                             |
+| 003 | Calculator         | [Live Demo](#)                                                             |
+| 004 | Counter            | [Live Demo](#)                                                             |
+| 005 | Digital Clock      | [Live Demo](#)                                                             |
+| 006 | Dynamic Gallery    | [Live Demo](#)                                                             |
+| 007 | Password Generator | [Live Demo](#)                                                             |
+| 008 | Recipe App         | [Live Demo](#)                                                             |
+| 009 | Shadow Generator   | [Live Demo](#)                                                             |
 
 ## Screenshot
 
