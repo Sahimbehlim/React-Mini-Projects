@@ -1,6 +1,6 @@
 # React Mini Projects
 
-This repository contains a collection of mini React projects created with **React**, **Vite** (as the bundler), and **Tailwind CSS** for styling. The projects demonstrate the use of various React hooks and concepts, including `useState`, `useEffect`, `useContext`, `useRef`, `useCallback`, `React Router`, `localStorage`, and API fetching.
+This repository contains a collection of mini projects created with **React**, **Vite** (as the bundler), and **Tailwind CSS** for styling. The projects demonstrate the use of various React hooks and concepts, including `useState`, `useEffect`, `useContext`, `useRef`, `useCallback`, `React Router`, `localStorage`, and API fetching.
 
 ## Features
 
@@ -15,18 +15,18 @@ This repository contains a collection of mini React projects created with **Reac
 
 ## Projects
 
-| Project Name       | Demo Link      |
-| ------------------ | -------------- |
-| Background Changer | [Live Demo](#) |
-| Budget Tracker     | [Live Demo](#) |
-| Calculator         | [Live Demo](#) |
-| Counter            | [Live Demo](#) |
-| Digital Clock      | [Live Demo](#) |
-| Dynamic Gallery    | [Live Demo](#) |
-| Password Generator | [Live Demo](#) |
-| Recipe App         | [Live Demo](#) |
-| Shadow Generator   | [Live Demo](#) |
+| Project Number | Project Name       | Demo Link      |
+| -------------- | ------------------ | -------------- |
+| 001            | Background Changer | [Live Demo](#) |
+| 002            | Budget Tracker     | [Live Demo](#) |
+| 003            | Calculator         | [Live Demo](#) |
+| 004            | Counter            | [Live Demo](#) |
+| 005            | Digital Clock      | [Live Demo](#) |
+| 006            | Dynamic Gallery    | [Live Demo](#) |
+| 007            | Password Generator | [Live Demo](#) |
+| 008            | Recipe App         | [Live Demo](#) |
+| 009            | Shadow Generator   | [Live Demo](#) |
 
 ## Screenshot
 
-[UI Img]()
+[UI Img](public/ui.png)
