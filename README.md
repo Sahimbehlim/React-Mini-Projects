@@ -15,17 +15,17 @@ This repository contains a collection of mini projects created with **React**, *
 
 ## Project Showcase
 
-| #   | Project Name                                                                                                | Demo Link                                                                  |
-| --- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 001 | [Background Changer](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/BgChanger) | [Live Demo](https://react-mini-projects-sb.netlify.app/background-changer) |
-| 002 | Budget Tracker                                                                                              | [Live Demo](https://react-mini-projects-sb.netlify.app/budget-tracker)     |
-| 003 | Calculator                                                                                                  | [Live Demo](https://react-mini-projects-sb.netlify.app/calculator)         |
-| 004 | Counter                                                                                                     | [Live Demo](https://react-mini-projects-sb.netlify.app/counter)            |
-| 005 | Digital Clock                                                                                               | [Live Demo](https://react-mini-projects-sb.netlify.app/digital-clock)      |
-| 006 | Dynamic Gallery                                                                                             | [Live Demo](https://react-mini-projects-sb.netlify.app/dynamic-gallery)    |
-| 007 | Password Generator                                                                                          | [Live Demo](https://react-mini-projects-sb.netlify.app/password-generator) |
-| 008 | Recipe App                                                                                                  | [Live Demo](https://react-mini-projects-sb.netlify.app/recipe-app)         |
-| 009 | Shadow Generator                                                                                            | [Live Demo](https://react-mini-projects-sb.netlify.app/shadow-generator)   |
+| #   | Project Name                                                                                                        | Demo Link                                                                  |
+| --- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 001 | [Background Changer](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/BgChanger)         | [Live Demo](https://react-mini-projects-sb.netlify.app/background-changer) |
+| 002 | [Budget Tracker](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/BudgetTracker)         | [Live Demo](https://react-mini-projects-sb.netlify.app/budget-tracker)     |
+| 003 | [Calculator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Calculator)                | [Live Demo](https://react-mini-projects-sb.netlify.app/calculator)         |
+| 004 | [Counter](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Counter)                      | [Live Demo](https://react-mini-projects-sb.netlify.app/counter)            |
+| 005 | [Digital Clock](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/DigitalClock)           | [Live Demo](https://react-mini-projects-sb.netlify.app/digital-clock)      |
+| 006 | [Dynamic Gallery](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/DynamicGallery)       | [Live Demo](https://react-mini-projects-sb.netlify.app/dynamic-gallery)    |
+| 007 | [Password Generator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/PasswordGenerator) | [Live Demo](https://react-mini-projects-sb.netlify.app/password-generator) |
+| 008 | [Recipe App](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Recipe)                    | [Live Demo](https://react-mini-projects-sb.netlify.app/recipe-app)         |
+| 009 | [Shadow Generator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/ShadowGenerator)     | [Live Demo](https://react-mini-projects-sb.netlify.app/shadow-generator)   |
 
 ## Screenshot
 
