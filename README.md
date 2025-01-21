@@ -29,4 +29,4 @@ This repository contains a collection of mini projects created with **React**, *
 
 ## Screenshot
 
-[UI Img](public/ui.png)
+![UI Img](public/ui.png)
