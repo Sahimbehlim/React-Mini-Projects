@@ -21,7 +21,7 @@ This repository contains a collection of mini projects created with **React**, *
 | 002 | [Budget Tracker](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/BudgetTracker)         | [Live Demo](https://react-mini-projects-sb.netlify.app/budget-tracker)     |
 | 003 | [Calculator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Calculator)                | [Live Demo](https://react-mini-projects-sb.netlify.app/calculator)         |
 | 004 | [Counter](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Counter)                      | [Live Demo](https://react-mini-projects-sb.netlify.app/counter)            |
-| 005 | [Currency Converter](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Counter)           | [Live Demo](https://react-mini-projects-sb.netlify.app/counter)            |
+| 005 | [Currency Converter](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/CurrencyConverter) | [Live Demo](https://react-mini-projects-sb.netlify.app/currency-converter) |
 | 006 | [Digital Clock](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/DigitalClock)           | [Live Demo](https://react-mini-projects-sb.netlify.app/digital-clock)      |
 | 007 | [Dynamic Gallery](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/DynamicGallery)       | [Live Demo](https://react-mini-projects-sb.netlify.app/dynamic-gallery)    |
 | 008 | [Password Generator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/PasswordGenerator) | [Live Demo](https://react-mini-projects-sb.netlify.app/password-generator) |
