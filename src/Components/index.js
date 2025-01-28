@@ -8,6 +8,7 @@ import BudgetTracker from "./BudgetTracker/BudgetTracker";
 import DigitalClock from "./DigitalClock/DigitalClock";
 import DynamicGallery from "./DynamicGallery/DynamicGallery";
 import Calculator from "./Calculator/Calculator";
+import CurrencyConverter from "./CurrencyConverter/CurrencyConverter";
 
 export {
   Recipe,
@@ -20,4 +21,5 @@ export {
   DigitalClock,
   DynamicGallery,
   Calculator,
+  CurrencyConverter,
 };

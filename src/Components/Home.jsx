@@ -36,6 +36,10 @@ const Home = () => {
       name: "Dynamic Gallery",
       className: "ri-gallery-line",
     },
+    {
+      name: "Currency Converter",
+      className: "ri-currency-line",
+    },
   ].sort((a, b) => a.name.localeCompare(b.name));
   return (
     <section className="min-h-screen w-full bg-gray-100 flex flex-col gap-6 py-6 items-center">

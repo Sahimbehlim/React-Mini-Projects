@@ -19,6 +19,7 @@ import {
   DigitalClock,
   DynamicGallery,
   Calculator,
+  CurrencyConverter,
 } from "./Components/index.js";
 
 const router = createBrowserRouter(
@@ -34,6 +35,7 @@ const router = createBrowserRouter(
       <Route path="budget-tracker" element={<BudgetTracker />} />
       <Route path="digital-clock" element={<DigitalClock />} />
       <Route path="dynamic-gallery" element={<DynamicGallery />} />
+      <Route path="currency-converter" element={<CurrencyConverter />} />
     </Route>
   )
 );
