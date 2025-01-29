@@ -27,6 +27,7 @@ This repository contains a collection of mini projects created with **React**, *
 | 008 | [Password Generator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/PasswordGenerator) | [Live Demo](https://react-mini-projects-sb.netlify.app/password-generator) |
 | 009 | [Recipe App](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Recipe)                    | [Live Demo](https://react-mini-projects-sb.netlify.app/recipe-app)         |
 | 010 | [Shadow Generator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/ShadowGenerator)     | [Live Demo](https://react-mini-projects-sb.netlify.app/shadow-generator)   |
+| 011 | [Todo App](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/TodoApp)                     | [Live Demo](https://react-mini-projects-sb.netlify.app/todo-app)           |
 
 ## Screenshot
 
