@@ -21,6 +21,7 @@ import {
   Calculator,
   CurrencyConverter,
   ToDo,
+  FormValidation,
 } from "./Components/index.js";
 
 const router = createBrowserRouter(
@@ -38,6 +39,7 @@ const router = createBrowserRouter(
       <Route path="dynamic-gallery" element={<DynamicGallery />} />
       <Route path="currency-converter" element={<CurrencyConverter />} />
       <Route path="todo-app" element={<ToDo />} />
+      <Route path="form-validation" element={<FormValidation />} />
     </Route>
   )
 );

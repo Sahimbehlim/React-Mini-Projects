@@ -10,6 +10,7 @@ import DynamicGallery from "./DynamicGallery/DynamicGallery";
 import Calculator from "./Calculator/Calculator";
 import CurrencyConverter from "./CurrencyConverter/CurrencyConverter";
 import ToDo from "./TodoApp/ToDo";
+import FormValidation from "./FormValidation/FormValidation";
 
 export {
   Recipe,
@@ -24,4 +25,5 @@ export {
   Calculator,
   CurrencyConverter,
   ToDo,
+  FormValidation,
 };
