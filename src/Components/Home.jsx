@@ -48,6 +48,10 @@ const Home = () => {
       name: "Form Validation",
       className: "ri-pass-valid-line",
     },
+    {
+      name: "Weather App",
+      className: "ri-cloud-line",
+    },
   ].sort((a, b) => a.name.localeCompare(b.name));
   return (
     <section className="min-h-screen w-full bg-gray-100 flex flex-col gap-6 py-6 items-center">

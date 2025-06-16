@@ -22,6 +22,7 @@ import {
   CurrencyConverter,
   ToDo,
   FormValidation,
+  WeatherWrapper,
 } from "./Components/index.js";
 
 const router = createBrowserRouter(
@@ -40,6 +41,7 @@ const router = createBrowserRouter(
       <Route path="currency-converter" element={<CurrencyConverter />} />
       <Route path="todo-app" element={<ToDo />} />
       <Route path="form-validation" element={<FormValidation />} />
+      <Route path="weather-app" element={<WeatherWrapper />} />
     </Route>
   )
 );

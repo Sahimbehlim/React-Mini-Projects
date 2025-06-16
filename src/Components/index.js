@@ -11,6 +11,7 @@ import Calculator from "./Calculator/Calculator";
 import CurrencyConverter from "./CurrencyConverter/CurrencyConverter";
 import ToDo from "./TodoApp/ToDo";
 import FormValidation from "./FormValidation/FormValidation";
+import WeatherWrapper from "./Weather/WeatherWrapper";
 
 export {
   Recipe,
@@ -26,4 +27,5 @@ export {
   CurrencyConverter,
   ToDo,
   FormValidation,
+  WeatherWrapper,
 };
