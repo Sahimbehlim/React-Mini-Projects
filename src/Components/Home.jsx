@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
 const Home = () => {
@@ -53,6 +52,7 @@ const Home = () => {
       className: "ri-cloud-line",
     },
   ].sort((a, b) => a.name.localeCompare(b.name));
+
   return (
     <section className="min-h-screen w-full bg-gray-100 flex flex-col gap-6 py-6 items-center">
       <h1 className="text-2xl sm:text-3xl font-semibold text-center">
