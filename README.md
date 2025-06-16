@@ -29,6 +29,7 @@ This repository contains a collection of mini projects created with **React**, *
 | 010 | [Recipe App](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Recipe)                    | [Live Demo](https://react-mini-projects-sb.netlify.app/recipe-app)         |
 | 011 | [Shadow Generator](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/ShadowGenerator)     | [Live Demo](https://react-mini-projects-sb.netlify.app/shadow-generator)   |
 | 012 | [Todo App](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/TodoApp)                     | [Live Demo](https://react-mini-projects-sb.netlify.app/todo-app)           |
+| 013 | [Weather App](https://github.com/Sahimbehlim/React-Mini-Projects/tree/main/src/Components/Weather)                  | [Live Demo](https://react-mini-projects-sb.netlify.app/weather-app)        |
 
 ## Screenshot
 
